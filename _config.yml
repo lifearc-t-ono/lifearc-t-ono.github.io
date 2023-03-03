@@ -1,4 +1,3 @@
-...
 defaults:
   -
     scope:
@@ -8,4 +7,3 @@ defaults:
       layout: "project"
       author: "Mr. Hyde"
       category: "project"
-...
